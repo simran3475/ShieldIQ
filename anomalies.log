@@ -1,0 +1,399 @@
+2025-05-05 11:17:59,714 - WARNING - Anomaly detected - SrcIP: 192.168.34.78, DstIP: 20.189.173.3, Packet Length: 1424, Protocol: 6, Anomaly Score: -0.1055
+2025-05-05 11:17:59,714 Anomaly detected - SrcIP: 192.168.34.78, DstIP: 20.189.173.3, Packet Length: 1424, Protocol: 6, Anomaly Score: -0.1055
+2025-05-05 11:17:59,715 Anomaly: SrcIP=192.168.34.78 DstIP=20.189.173.3 Length=1424 Score=-0.1055
+2025-05-05 11:18:09,934 - WARNING - Anomaly detected - SrcIP: 192.168.34.78, DstIP: 20.189.173.3, Packet Length: 1424, Protocol: 6, Anomaly Score: -0.1055
+2025-05-05 11:18:09,934 Anomaly detected - SrcIP: 192.168.34.78, DstIP: 20.189.173.3, Packet Length: 1424, Protocol: 6, Anomaly Score: -0.1055
+2025-05-05 11:18:09,934 Anomaly: SrcIP=192.168.34.78 DstIP=20.189.173.3 Length=1424 Score=-0.1055
+2025-05-05 11:18:14,743 - WARNING - Anomaly detected - SrcIP: 192.168.34.78, DstIP: 13.107.137.11, Packet Length: 1424, Protocol: 6, Anomaly Score: -0.1074
+2025-05-05 11:18:14,743 Anomaly detected - SrcIP: 192.168.34.78, DstIP: 13.107.137.11, Packet Length: 1424, Protocol: 6, Anomaly Score: -0.1074
+2025-05-05 11:18:14,745 Anomaly: SrcIP=192.168.34.78 DstIP=13.107.137.11 Length=1424 Score=-0.1074
+2025-05-05 11:18:19,226 - WARNING - Anomaly detected - SrcIP: 192.168.34.78, DstIP: 13.107.137.11, Packet Length: 1356, Protocol: 6, Anomaly Score: -0.1084
+2025-05-05 11:18:19,226 Anomaly detected - SrcIP: 192.168.34.78, DstIP: 13.107.137.11, Packet Length: 1356, Protocol: 6, Anomaly Score: -0.1084
+2025-05-05 11:18:19,227 Anomaly: SrcIP=192.168.34.78 DstIP=13.107.137.11 Length=1356 Score=-0.1084
+2025-05-05 11:18:23,457 - WARNING - Anomaly detected - SrcIP: 192.168.34.78, DstIP: 13.107.137.11, Packet Length: 1424, Protocol: 6, Anomaly Score: -0.1074
+2025-05-05 11:18:23,457 Anomaly detected - SrcIP: 192.168.34.78, DstIP: 13.107.137.11, Packet Length: 1424, Protocol: 6, Anomaly Score: -0.1074
+2025-05-05 11:18:23,458 Anomaly: SrcIP=192.168.34.78 DstIP=13.107.137.11 Length=1424 Score=-0.1074
+2025-05-05 11:18:28,027 - WARNING - Anomaly detected - SrcIP: 192.168.34.78, DstIP: 20.189.173.3, Packet Length: 1424, Protocol: 6, Anomaly Score: -0.1055
+2025-05-05 11:18:28,027 Anomaly detected - SrcIP: 192.168.34.78, DstIP: 20.189.173.3, Packet Length: 1424, Protocol: 6, Anomaly Score: -0.1055
+2025-05-05 11:18:28,034 Anomaly: SrcIP=192.168.34.78 DstIP=20.189.173.3 Length=1424 Score=-0.1055
+2025-05-05 11:18:31,827 - WARNING - Anomaly detected - SrcIP: 192.168.34.78, DstIP: 20.189.173.3, Packet Length: 1424, Protocol: 6, Anomaly Score: -0.1055
+2025-05-05 11:18:31,827 Anomaly detected - SrcIP: 192.168.34.78, DstIP: 20.189.173.3, Packet Length: 1424, Protocol: 6, Anomaly Score: -0.1055
+2025-05-05 11:18:31,835 Anomaly: SrcIP=192.168.34.78 DstIP=20.189.173.3 Length=1424 Score=-0.1055
+2025-05-05 11:18:35,703 - WARNING - Anomaly detected - SrcIP: 192.168.34.78, DstIP: 20.189.173.3, Packet Length: 1424, Protocol: 6, Anomaly Score: -0.1055
+2025-05-05 11:18:35,703 Anomaly detected - SrcIP: 192.168.34.78, DstIP: 20.189.173.3, Packet Length: 1424, Protocol: 6, Anomaly Score: -0.1055
+2025-05-05 11:18:35,705 Anomaly: SrcIP=192.168.34.78 DstIP=20.189.173.3 Length=1424 Score=-0.1055
+2025-05-05 11:18:42,171 - WARNING - Anomaly detected - SrcIP: 192.168.34.78, DstIP: 52.104.66.53, Packet Length: 1424, Protocol: 6, Anomaly Score: -0.1074
+2025-05-05 11:18:42,171 Anomaly detected - SrcIP: 192.168.34.78, DstIP: 52.104.66.53, Packet Length: 1424, Protocol: 6, Anomaly Score: -0.1074
+2025-05-05 11:18:42,173 Anomaly: SrcIP=192.168.34.78 DstIP=52.104.66.53 Length=1424 Score=-0.1074
+2025-05-05 11:18:46,371 - WARNING - Anomaly detected - SrcIP: 192.168.34.78, DstIP: 52.104.66.53, Packet Length: 1397, Protocol: 6, Anomaly Score: -0.1084
+2025-05-05 11:18:46,371 Anomaly detected - SrcIP: 192.168.34.78, DstIP: 52.104.66.53, Packet Length: 1397, Protocol: 6, Anomaly Score: -0.1084
+2025-05-05 11:18:46,372 Anomaly: SrcIP=192.168.34.78 DstIP=52.104.66.53 Length=1397 Score=-0.1084
+2025-05-05 13:30:16,856 - WARNING - Anomaly detected - SrcIP: 192.168.3.78, DstIP: 20.42.65.94, Packet Length: 1323, Protocol: 6, Anomaly Score: -0.1138
+2025-05-05 13:30:16,856 Anomaly detected - SrcIP: 192.168.3.78, DstIP: 20.42.65.94, Packet Length: 1323, Protocol: 6, Anomaly Score: -0.1138
+2025-05-05 13:30:16,858 Anomaly: SrcIP=192.168.3.78 DstIP=20.42.65.94 Length=1323 Score=-0.1138
+2025-05-05 13:30:23,879 - WARNING - Anomaly detected - SrcIP: 192.168.3.78, DstIP: 20.42.65.94, Packet Length: 1323, Protocol: 6, Anomaly Score: -0.1138
+2025-05-05 13:30:23,879 Anomaly detected - SrcIP: 192.168.3.78, DstIP: 20.42.65.94, Packet Length: 1323, Protocol: 6, Anomaly Score: -0.1138
+2025-05-05 13:30:23,879 Anomaly: SrcIP=192.168.3.78 DstIP=20.42.65.94 Length=1323 Score=-0.1138
+2025-05-05 13:30:30,191 - WARNING - Anomaly detected - SrcIP: 192.168.3.78, DstIP: 20.42.65.94, Packet Length: 1323, Protocol: 6, Anomaly Score: -0.1138
+2025-05-05 13:30:30,191 Anomaly detected - SrcIP: 192.168.3.78, DstIP: 20.42.65.94, Packet Length: 1323, Protocol: 6, Anomaly Score: -0.1138
+2025-05-05 13:30:30,192 Anomaly: SrcIP=192.168.3.78 DstIP=20.42.65.94 Length=1323 Score=-0.1138
+2025-05-05 13:30:36,272 - WARNING - Anomaly detected - SrcIP: 192.168.3.78, DstIP: 20.42.65.94, Packet Length: 1354, Protocol: 6, Anomaly Score: -0.1171
+2025-05-05 13:30:36,272 Anomaly detected - SrcIP: 192.168.3.78, DstIP: 20.42.65.94, Packet Length: 1354, Protocol: 6, Anomaly Score: -0.1171
+2025-05-05 13:30:36,274 Anomaly: SrcIP=192.168.3.78 DstIP=20.42.65.94 Length=1354 Score=-0.1171
+2025-05-05 13:30:45,037 - WARNING - Anomaly detected - SrcIP: 192.168.3.78, DstIP: 20.42.65.94, Packet Length: 1354, Protocol: 6, Anomaly Score: -0.1171
+2025-05-05 13:30:45,037 Anomaly detected - SrcIP: 192.168.3.78, DstIP: 20.42.65.94, Packet Length: 1354, Protocol: 6, Anomaly Score: -0.1171
+2025-05-05 13:30:45,038 Anomaly: SrcIP=192.168.3.78 DstIP=20.42.65.94 Length=1354 Score=-0.1171
+2025-05-05 13:30:54,986 - WARNING - Anomaly detected - SrcIP: 192.168.3.78, DstIP: 20.42.65.94, Packet Length: 1354, Protocol: 6, Anomaly Score: -0.1171
+2025-05-05 13:30:54,986 Anomaly detected - SrcIP: 192.168.3.78, DstIP: 20.42.65.94, Packet Length: 1354, Protocol: 6, Anomaly Score: -0.1171
+2025-05-05 13:30:54,988 Anomaly: SrcIP=192.168.3.78 DstIP=20.42.65.94 Length=1354 Score=-0.1171
+2025-05-05 13:31:05,238 - WARNING - Anomaly detected - SrcIP: 192.168.3.78, DstIP: 192.168.3.147, Packet Length: 290, Protocol: 1, Anomaly Score: -0.1119
+2025-05-05 13:31:05,238 Anomaly detected - SrcIP: 192.168.3.78, DstIP: 192.168.3.147, Packet Length: 290, Protocol: 1, Anomaly Score: -0.1119
+2025-05-05 13:31:05,240 Anomaly: SrcIP=192.168.3.78 DstIP=192.168.3.147 Length=290 Score=-0.1119
+2025-05-05 13:31:54,445 - WARNING - Anomaly detected - SrcIP: 192.168.3.78, DstIP: 52.182.143.208, Packet Length: 1354, Protocol: 6, Anomaly Score: -0.1171
+2025-05-05 13:31:54,445 Anomaly detected - SrcIP: 192.168.3.78, DstIP: 52.182.143.208, Packet Length: 1354, Protocol: 6, Anomaly Score: -0.1171
+2025-05-05 13:31:54,446 Anomaly: SrcIP=192.168.3.78 DstIP=52.182.143.208 Length=1354 Score=-0.1171
+2025-05-05 13:32:07,046 - WARNING - Anomaly detected - SrcIP: 192.168.3.78, DstIP: 52.182.143.208, Packet Length: 1354, Protocol: 6, Anomaly Score: -0.1171
+2025-05-05 13:32:07,046 Anomaly detected - SrcIP: 192.168.3.78, DstIP: 52.182.143.208, Packet Length: 1354, Protocol: 6, Anomaly Score: -0.1171
+2025-05-05 13:32:07,047 Anomaly: SrcIP=192.168.3.78 DstIP=52.182.143.208 Length=1354 Score=-0.1171
+2025-05-05 13:32:24,381 - WARNING - Anomaly detected - SrcIP: 192.168.3.78, DstIP: 52.182.143.208, Packet Length: 1354, Protocol: 6, Anomaly Score: -0.1171
+2025-05-05 13:32:24,381 Anomaly detected - SrcIP: 192.168.3.78, DstIP: 52.182.143.208, Packet Length: 1354, Protocol: 6, Anomaly Score: -0.1171
+2025-05-05 13:32:24,382 Anomaly: SrcIP=192.168.3.78 DstIP=52.182.143.208 Length=1354 Score=-0.1171
+2025-05-05 13:33:59,636 - WARNING - Anomaly detected - SrcIP: 192.168.3.78, DstIP: 52.182.143.208, Packet Length: 1354, Protocol: 6, Anomaly Score: -0.1171
+2025-05-05 13:33:59,636 Anomaly detected - SrcIP: 192.168.3.78, DstIP: 52.182.143.208, Packet Length: 1354, Protocol: 6, Anomaly Score: -0.1171
+2025-05-05 13:33:59,647 Anomaly: SrcIP=192.168.3.78 DstIP=52.182.143.208 Length=1354 Score=-0.1171
+2025-05-05 13:36:18,131 - WARNING - Anomaly detected - SrcIP: 192.168.3.78, DstIP: 20.42.73.26, Packet Length: 1354, Protocol: 6, Anomaly Score: -0.1206
+2025-05-05 13:36:18,131 Anomaly detected - SrcIP: 192.168.3.78, DstIP: 20.42.73.26, Packet Length: 1354, Protocol: 6, Anomaly Score: -0.1206
+2025-05-05 13:36:18,133 Anomaly: SrcIP=192.168.3.78 DstIP=20.42.73.26 Length=1354 Score=-0.1206
+2025-05-05 13:36:33,497 - WARNING - Anomaly detected - SrcIP: 192.168.3.78, DstIP: 23.217.111.10, Packet Length: 1275, Protocol: 6, Anomaly Score: -0.1144
+2025-05-05 13:36:33,497 Anomaly detected - SrcIP: 192.168.3.78, DstIP: 23.217.111.10, Packet Length: 1275, Protocol: 6, Anomaly Score: -0.1144
+2025-05-05 13:36:33,498 Anomaly: SrcIP=192.168.3.78 DstIP=23.217.111.10 Length=1275 Score=-0.1144
+2025-05-05 13:37:52,818 - WARNING - Anomaly detected - SrcIP: 192.168.3.78, DstIP: 20.189.173.5, Packet Length: 1354, Protocol: 6, Anomaly Score: -0.1206
+2025-05-05 13:37:52,818 Anomaly detected - SrcIP: 192.168.3.78, DstIP: 20.189.173.5, Packet Length: 1354, Protocol: 6, Anomaly Score: -0.1206
+2025-05-05 13:37:52,820 Anomaly: SrcIP=192.168.3.78 DstIP=20.189.173.5 Length=1354 Score=-0.1206
+2025-05-05 13:38:47,805 - WARNING - Anomaly detected - SrcIP: 192.168.3.78, DstIP: 13.107.246.48, Packet Length: 1354, Protocol: 6, Anomaly Score: -0.1206
+2025-05-05 13:38:47,805 Anomaly detected - SrcIP: 192.168.3.78, DstIP: 13.107.246.48, Packet Length: 1354, Protocol: 6, Anomaly Score: -0.1206
+2025-05-05 13:38:47,808 Anomaly: SrcIP=192.168.3.78 DstIP=13.107.246.48 Length=1354 Score=-0.1206
+2025-05-05 13:40:11,398 - WARNING - Anomaly detected - SrcIP: 192.168.3.78, DstIP: 13.107.137.11, Packet Length: 1354, Protocol: 6, Anomaly Score: -0.1206
+2025-05-05 13:40:11,398 Anomaly detected - SrcIP: 192.168.3.78, DstIP: 13.107.137.11, Packet Length: 1354, Protocol: 6, Anomaly Score: -0.1206
+2025-05-05 13:40:11,401 Anomaly: SrcIP=192.168.3.78 DstIP=13.107.137.11 Length=1354 Score=-0.1206
+2025-05-05 13:45:26,569 - WARNING - Anomaly detected - SrcIP: 192.168.3.78, DstIP: 142.250.194.228, Packet Length: 1354, Protocol: 6, Anomaly Score: -0.1206
+2025-05-05 13:45:26,569 Anomaly detected - SrcIP: 192.168.3.78, DstIP: 142.250.194.228, Packet Length: 1354, Protocol: 6, Anomaly Score: -0.1206
+2025-05-05 13:45:26,572 Anomaly: SrcIP=192.168.3.78 DstIP=142.250.194.228 Length=1354 Score=-0.1206
+2025-05-05 13:45:55,693 - WARNING - Anomaly detected - SrcIP: 192.168.3.78, DstIP: 52.187.79.109, Packet Length: 1354, Protocol: 6, Anomaly Score: -0.1206
+2025-05-05 13:45:55,693 Anomaly detected - SrcIP: 192.168.3.78, DstIP: 52.187.79.109, Packet Length: 1354, Protocol: 6, Anomaly Score: -0.1206
+2025-05-05 13:45:55,697 Anomaly: SrcIP=192.168.3.78 DstIP=52.187.79.109 Length=1354 Score=-0.1206
+2025-05-05 13:46:30,433 - WARNING - Anomaly detected - SrcIP: 192.168.3.78, DstIP: 142.250.206.165, Packet Length: 1354, Protocol: 6, Anomaly Score: -0.1171
+2025-05-05 13:46:30,433 Anomaly detected - SrcIP: 192.168.3.78, DstIP: 142.250.206.165, Packet Length: 1354, Protocol: 6, Anomaly Score: -0.1171
+2025-05-05 13:46:30,435 Anomaly: SrcIP=192.168.3.78 DstIP=142.250.206.165 Length=1354 Score=-0.1171
+2025-05-05 13:47:53,539 - WARNING - Anomaly detected - SrcIP: 192.168.3.78, DstIP: 23.217.111.10, Packet Length: 1275, Protocol: 6, Anomaly Score: -0.1144
+2025-05-05 13:47:53,539 Anomaly detected - SrcIP: 192.168.3.78, DstIP: 23.217.111.10, Packet Length: 1275, Protocol: 6, Anomaly Score: -0.1144
+2025-05-05 13:47:53,544 Anomaly: SrcIP=192.168.3.78 DstIP=23.217.111.10 Length=1275 Score=-0.1144
+2025-05-05 13:48:49,923 - WARNING - Anomaly detected - SrcIP: 192.168.3.78, DstIP: 20.189.173.5, Packet Length: 1354, Protocol: 6, Anomaly Score: -0.1206
+2025-05-05 13:48:49,923 Anomaly detected - SrcIP: 192.168.3.78, DstIP: 20.189.173.5, Packet Length: 1354, Protocol: 6, Anomaly Score: -0.1206
+2025-05-05 13:48:49,925 Anomaly: SrcIP=192.168.3.78 DstIP=20.189.173.5 Length=1354 Score=-0.1206
+2025-05-05 13:49:14,862 - WARNING - Anomaly detected - SrcIP: 192.168.3.78, DstIP: 52.123.226.24, Packet Length: 1354, Protocol: 6, Anomaly Score: -0.1206
+2025-05-05 13:49:14,862 Anomaly detected - SrcIP: 192.168.3.78, DstIP: 52.123.226.24, Packet Length: 1354, Protocol: 6, Anomaly Score: -0.1206
+2025-05-05 13:49:14,863 Anomaly: SrcIP=192.168.3.78 DstIP=52.123.226.24 Length=1354 Score=-0.1206
+2025-05-05 13:49:41,122 - WARNING - Anomaly detected - SrcIP: 192.168.3.78, DstIP: 142.250.77.206, Packet Length: 1354, Protocol: 6, Anomaly Score: -0.1171
+2025-05-05 13:49:41,122 Anomaly detected - SrcIP: 192.168.3.78, DstIP: 142.250.77.206, Packet Length: 1354, Protocol: 6, Anomaly Score: -0.1171
+2025-05-05 13:49:41,124 Anomaly: SrcIP=192.168.3.78 DstIP=142.250.77.206 Length=1354 Score=-0.1171
+2025-05-05 13:50:11,314 - WARNING - Anomaly detected - SrcIP: 192.168.3.78, DstIP: 142.250.77.206, Packet Length: 1354, Protocol: 6, Anomaly Score: -0.1171
+2025-05-05 13:50:11,314 Anomaly detected - SrcIP: 192.168.3.78, DstIP: 142.250.77.206, Packet Length: 1354, Protocol: 6, Anomaly Score: -0.1171
+2025-05-05 13:50:11,315 Anomaly: SrcIP=192.168.3.78 DstIP=142.250.77.206 Length=1354 Score=-0.1171
+2025-05-05 13:51:03,518 - WARNING - Anomaly detected - SrcIP: 192.168.3.78, DstIP: 142.250.77.206, Packet Length: 1354, Protocol: 6, Anomaly Score: -0.1171
+2025-05-05 13:51:03,518 Anomaly detected - SrcIP: 192.168.3.78, DstIP: 142.250.77.206, Packet Length: 1354, Protocol: 6, Anomaly Score: -0.1171
+2025-05-05 13:51:03,518 Anomaly: SrcIP=192.168.3.78 DstIP=142.250.77.206 Length=1354 Score=-0.1171
+2025-05-05 13:51:49,165 - WARNING - Anomaly detected - SrcIP: 192.168.3.78, DstIP: 20.189.173.5, Packet Length: 1354, Protocol: 6, Anomaly Score: -0.1206
+2025-05-05 13:51:49,165 Anomaly detected - SrcIP: 192.168.3.78, DstIP: 20.189.173.5, Packet Length: 1354, Protocol: 6, Anomaly Score: -0.1206
+2025-05-05 13:51:49,167 Anomaly: SrcIP=192.168.3.78 DstIP=20.189.173.5 Length=1354 Score=-0.1206
+2025-05-05 13:52:00,328 - WARNING - Anomaly detected - SrcIP: 192.168.3.78, DstIP: 13.107.246.48, Packet Length: 1354, Protocol: 6, Anomaly Score: -0.1206
+2025-05-05 13:52:00,328 Anomaly detected - SrcIP: 192.168.3.78, DstIP: 13.107.246.48, Packet Length: 1354, Protocol: 6, Anomaly Score: -0.1206
+2025-05-05 13:52:00,330 Anomaly: SrcIP=192.168.3.78 DstIP=13.107.246.48 Length=1354 Score=-0.1206
+2025-05-05 14:20:12,508 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 150.171.27.10, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1247
+2025-05-05 14:20:12,508 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 150.171.27.10, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1247
+2025-05-05 14:20:12,515 Anomaly: SrcIP=172.16.200.92 DstIP=150.171.27.10 Length=1514 Score=-0.1247
+2025-05-05 14:20:34,399 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 142.250.206.174, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:20:34,399 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 142.250.206.174, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:20:34,402 Anomaly: SrcIP=172.16.200.92 DstIP=142.250.206.174 Length=1514 Score=-0.1257
+2025-05-05 14:20:55,477 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 142.250.206.174, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:20:55,477 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 142.250.206.174, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:20:55,479 Anomaly: SrcIP=172.16.200.92 DstIP=142.250.206.174 Length=1514 Score=-0.1257
+2025-05-05 14:21:16,652 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 142.250.206.174, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:21:16,652 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 142.250.206.174, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:21:16,657 Anomaly: SrcIP=172.16.200.92 DstIP=142.250.206.174 Length=1514 Score=-0.1257
+2025-05-05 14:21:37,824 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 142.250.206.174, Packet Length: 1435, Protocol: 6, Anomaly Score: -0.1272
+2025-05-05 14:21:37,824 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 142.250.206.174, Packet Length: 1435, Protocol: 6, Anomaly Score: -0.1272
+2025-05-05 14:21:37,831 Anomaly: SrcIP=172.16.200.92 DstIP=142.250.206.174 Length=1435 Score=-0.1272
+2025-05-05 14:21:59,233 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 142.250.206.174, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:21:59,233 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 142.250.206.174, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:21:59,234 Anomaly: SrcIP=172.16.200.92 DstIP=142.250.206.174 Length=1514 Score=-0.1257
+2025-05-05 14:22:20,306 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 142.250.206.174, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:22:20,306 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 142.250.206.174, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:22:20,308 Anomaly: SrcIP=172.16.200.92 DstIP=142.250.206.174 Length=1514 Score=-0.1257
+2025-05-05 14:22:41,382 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 142.250.206.174, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:22:41,382 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 142.250.206.174, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:22:41,384 Anomaly: SrcIP=172.16.200.92 DstIP=142.250.206.174 Length=1514 Score=-0.1257
+2025-05-05 14:23:02,455 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 142.250.206.174, Packet Length: 1411, Protocol: 6, Anomaly Score: -0.1264
+2025-05-05 14:23:02,455 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 142.250.206.174, Packet Length: 1411, Protocol: 6, Anomaly Score: -0.1264
+2025-05-05 14:23:02,456 Anomaly: SrcIP=172.16.200.92 DstIP=142.250.206.174 Length=1411 Score=-0.1264
+2025-05-05 14:23:23,756 - WARNING - Anomaly detected - SrcIP: 172.16.202.39, DstIP: 172.16.207.255, Packet Length: 86, Protocol: 17, Anomaly Score: -0.1001
+2025-05-05 14:23:23,756 Anomaly detected - SrcIP: 172.16.202.39, DstIP: 172.16.207.255, Packet Length: 86, Protocol: 17, Anomaly Score: -0.1001
+2025-05-05 14:23:23,758 Anomaly: SrcIP=172.16.202.39 DstIP=172.16.207.255 Length=86 Score=-0.1001
+2025-05-05 14:23:45,134 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 23.215.7.7, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:23:45,134 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 23.215.7.7, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:23:45,135 Anomaly: SrcIP=172.16.200.92 DstIP=23.215.7.7 Length=1514 Score=-0.1257
+2025-05-05 14:23:45,148 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 23.215.7.7, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:23:45,148 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 23.215.7.7, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:23:45,149 Anomaly: SrcIP=172.16.200.92 DstIP=23.215.7.7 Length=1514 Score=-0.1257
+2025-05-05 14:23:45,656 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 18.182.81.83, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:23:45,656 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 18.182.81.83, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:23:45,658 Anomaly: SrcIP=172.16.200.92 DstIP=18.182.81.83 Length=1514 Score=-0.1257
+2025-05-05 14:23:46,072 - WARNING - Anomaly detected - SrcIP: 172.16.200.95, DstIP: 224.0.0.251, Packet Length: 1195, Protocol: 17, Anomaly Score: -0.1301
+2025-05-05 14:23:46,072 Anomaly detected - SrcIP: 172.16.200.95, DstIP: 224.0.0.251, Packet Length: 1195, Protocol: 17, Anomaly Score: -0.1301
+2025-05-05 14:23:46,074 Anomaly: SrcIP=172.16.200.95 DstIP=224.0.0.251 Length=1195 Score=-0.1301
+2025-05-05 14:23:46,180 - WARNING - Anomaly detected - SrcIP: 172.16.200.95, DstIP: 172.16.207.255, Packet Length: 86, Protocol: 17, Anomaly Score: -0.1001
+2025-05-05 14:23:46,180 Anomaly detected - SrcIP: 172.16.200.95, DstIP: 172.16.207.255, Packet Length: 86, Protocol: 17, Anomaly Score: -0.1001
+2025-05-05 14:23:46,182 Anomaly: SrcIP=172.16.200.95 DstIP=172.16.207.255 Length=86 Score=-0.1001
+2025-05-05 14:23:46,192 - WARNING - Anomaly detected - SrcIP: 172.16.201.49, DstIP: 172.16.207.255, Packet Length: 86, Protocol: 17, Anomaly Score: -0.1001
+2025-05-05 14:23:46,192 Anomaly detected - SrcIP: 172.16.201.49, DstIP: 172.16.207.255, Packet Length: 86, Protocol: 17, Anomaly Score: -0.1001
+2025-05-05 14:23:46,193 Anomaly: SrcIP=172.16.201.49 DstIP=172.16.207.255 Length=86 Score=-0.1001
+2025-05-05 14:23:46,303 - WARNING - Anomaly detected - SrcIP: 172.16.69.56, DstIP: 224.0.0.251, Packet Length: 667, Protocol: 17, Anomaly Score: -0.1074
+2025-05-05 14:23:46,303 Anomaly detected - SrcIP: 172.16.69.56, DstIP: 224.0.0.251, Packet Length: 667, Protocol: 17, Anomaly Score: -0.1074
+2025-05-05 14:23:46,303 Anomaly: SrcIP=172.16.69.56 DstIP=224.0.0.251 Length=667 Score=-0.1074
+2025-05-05 14:23:46,437 - WARNING - Anomaly detected - SrcIP: 172.16.69.56, DstIP: 224.0.0.251, Packet Length: 727, Protocol: 17, Anomaly Score: -0.1078
+2025-05-05 14:23:46,437 Anomaly detected - SrcIP: 172.16.69.56, DstIP: 224.0.0.251, Packet Length: 727, Protocol: 17, Anomaly Score: -0.1078
+2025-05-05 14:23:46,437 Anomaly: SrcIP=172.16.69.56 DstIP=224.0.0.251 Length=727 Score=-0.1078
+2025-05-05 14:23:46,448 - WARNING - Anomaly detected - SrcIP: 172.16.69.56, DstIP: 224.0.0.251, Packet Length: 672, Protocol: 17, Anomaly Score: -0.1074
+2025-05-05 14:23:46,448 Anomaly detected - SrcIP: 172.16.69.56, DstIP: 224.0.0.251, Packet Length: 672, Protocol: 17, Anomaly Score: -0.1074
+2025-05-05 14:23:46,449 Anomaly: SrcIP=172.16.69.56 DstIP=224.0.0.251 Length=672 Score=-0.1074
+2025-05-05 14:23:46,465 - WARNING - Anomaly detected - SrcIP: 172.16.202.30, DstIP: 172.16.207.255, Packet Length: 86, Protocol: 17, Anomaly Score: -0.1001
+2025-05-05 14:23:46,465 Anomaly detected - SrcIP: 172.16.202.30, DstIP: 172.16.207.255, Packet Length: 86, Protocol: 17, Anomaly Score: -0.1001
+2025-05-05 14:23:46,466 Anomaly: SrcIP=172.16.202.30 DstIP=172.16.207.255 Length=86 Score=-0.1001
+2025-05-05 14:23:46,481 - WARNING - Anomaly detected - SrcIP: 172.16.202.30, DstIP: 172.16.207.255, Packet Length: 86, Protocol: 17, Anomaly Score: -0.1001
+2025-05-05 14:23:46,481 Anomaly detected - SrcIP: 172.16.202.30, DstIP: 172.16.207.255, Packet Length: 86, Protocol: 17, Anomaly Score: -0.1001
+2025-05-05 14:23:46,482 Anomaly: SrcIP=172.16.202.30 DstIP=172.16.207.255 Length=86 Score=-0.1001
+2025-05-05 14:23:46,689 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 40.79.150.121, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:23:46,689 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 40.79.150.121, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:23:46,689 Anomaly: SrcIP=172.16.200.92 DstIP=40.79.150.121 Length=1514 Score=-0.1257
+2025-05-05 14:23:46,700 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 40.79.150.121, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:23:46,700 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 40.79.150.121, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:23:46,700 Anomaly: SrcIP=172.16.200.92 DstIP=40.79.150.121 Length=1514 Score=-0.1257
+2025-05-05 14:23:46,711 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 40.79.150.121, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:23:46,711 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 40.79.150.121, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:23:46,712 Anomaly: SrcIP=172.16.200.92 DstIP=40.79.150.121 Length=1514 Score=-0.1257
+2025-05-05 14:23:46,721 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 40.79.150.121, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:23:46,721 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 40.79.150.121, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:23:46,722 Anomaly: SrcIP=172.16.200.92 DstIP=40.79.150.121 Length=1514 Score=-0.1257
+2025-05-05 14:23:46,732 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 40.79.150.121, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:23:46,732 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 40.79.150.121, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:23:46,733 Anomaly: SrcIP=172.16.200.92 DstIP=40.79.150.121 Length=1514 Score=-0.1257
+2025-05-05 14:23:46,744 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 40.79.150.121, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:23:46,744 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 40.79.150.121, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:23:46,745 Anomaly: SrcIP=172.16.200.92 DstIP=40.79.150.121 Length=1514 Score=-0.1257
+2025-05-05 14:23:46,753 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 40.79.150.121, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:23:46,753 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 40.79.150.121, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:23:46,754 Anomaly: SrcIP=172.16.200.92 DstIP=40.79.150.121 Length=1514 Score=-0.1257
+2025-05-05 14:23:46,764 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 40.79.150.121, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:23:46,764 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 40.79.150.121, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:23:46,764 Anomaly: SrcIP=172.16.200.92 DstIP=40.79.150.121 Length=1514 Score=-0.1257
+2025-05-05 14:23:46,772 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 40.79.150.121, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:23:46,772 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 40.79.150.121, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:23:46,773 Anomaly: SrcIP=172.16.200.92 DstIP=40.79.150.121 Length=1514 Score=-0.1257
+2025-05-05 14:23:46,783 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 40.79.150.121, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:23:46,783 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 40.79.150.121, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:23:46,783 Anomaly: SrcIP=172.16.200.92 DstIP=40.79.150.121 Length=1514 Score=-0.1257
+2025-05-05 14:23:46,795 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 40.79.150.121, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:23:46,795 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 40.79.150.121, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:23:46,796 Anomaly: SrcIP=172.16.200.92 DstIP=40.79.150.121 Length=1514 Score=-0.1257
+2025-05-05 14:23:46,817 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 40.79.150.121, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:23:46,817 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 40.79.150.121, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:23:46,818 Anomaly: SrcIP=172.16.200.92 DstIP=40.79.150.121 Length=1514 Score=-0.1257
+2025-05-05 14:23:46,828 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 40.79.150.121, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:23:46,828 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 40.79.150.121, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:23:46,829 Anomaly: SrcIP=172.16.200.92 DstIP=40.79.150.121 Length=1514 Score=-0.1257
+2025-05-05 14:23:46,837 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 40.79.150.121, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:23:46,837 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 40.79.150.121, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:23:46,838 Anomaly: SrcIP=172.16.200.92 DstIP=40.79.150.121 Length=1514 Score=-0.1257
+2025-05-05 14:23:46,850 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 40.79.150.121, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:23:46,850 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 40.79.150.121, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:23:46,851 Anomaly: SrcIP=172.16.200.92 DstIP=40.79.150.121 Length=1514 Score=-0.1257
+2025-05-05 14:23:47,251 - WARNING - Anomaly detected - SrcIP: 172.16.202.68, DstIP: 172.16.207.255, Packet Length: 86, Protocol: 17, Anomaly Score: -0.1001
+2025-05-05 14:23:47,251 Anomaly detected - SrcIP: 172.16.202.68, DstIP: 172.16.207.255, Packet Length: 86, Protocol: 17, Anomaly Score: -0.1001
+2025-05-05 14:23:47,251 Anomaly: SrcIP=172.16.202.68 DstIP=172.16.207.255 Length=86 Score=-0.1001
+2025-05-05 14:23:47,388 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 13.107.137.11, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:23:47,388 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 13.107.137.11, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:23:47,389 Anomaly: SrcIP=172.16.200.92 DstIP=13.107.137.11 Length=1514 Score=-0.1257
+2025-05-05 14:23:47,401 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 13.107.137.11, Packet Length: 1252, Protocol: 6, Anomaly Score: -0.1168
+2025-05-05 14:23:47,401 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 13.107.137.11, Packet Length: 1252, Protocol: 6, Anomaly Score: -0.1168
+2025-05-05 14:23:47,402 Anomaly: SrcIP=172.16.200.92 DstIP=13.107.137.11 Length=1252 Score=-0.1168
+2025-05-05 14:23:47,414 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 13.107.137.11, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:23:47,414 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 13.107.137.11, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:23:47,415 Anomaly: SrcIP=172.16.200.92 DstIP=13.107.137.11 Length=1514 Score=-0.1257
+2025-05-05 14:23:47,427 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 13.107.137.11, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:23:47,427 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 13.107.137.11, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:23:47,428 Anomaly: SrcIP=172.16.200.92 DstIP=13.107.137.11 Length=1514 Score=-0.1257
+2025-05-05 14:23:47,595 - WARNING - Anomaly detected - SrcIP: 172.16.202.30, DstIP: 172.16.207.255, Packet Length: 86, Protocol: 17, Anomaly Score: -0.1001
+2025-05-05 14:23:47,595 Anomaly detected - SrcIP: 172.16.202.30, DstIP: 172.16.207.255, Packet Length: 86, Protocol: 17, Anomaly Score: -0.1001
+2025-05-05 14:23:47,596 Anomaly: SrcIP=172.16.202.30 DstIP=172.16.207.255 Length=86 Score=-0.1001
+2025-05-05 14:23:47,642 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 13.107.137.11, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:23:47,642 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 13.107.137.11, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:23:47,643 Anomaly: SrcIP=172.16.200.92 DstIP=13.107.137.11 Length=1514 Score=-0.1257
+2025-05-05 14:23:47,654 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 13.107.137.11, Packet Length: 1255, Protocol: 6, Anomaly Score: -0.1163
+2025-05-05 14:23:47,654 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 13.107.137.11, Packet Length: 1255, Protocol: 6, Anomaly Score: -0.1163
+2025-05-05 14:23:47,655 Anomaly: SrcIP=172.16.200.92 DstIP=13.107.137.11 Length=1255 Score=-0.1163
+2025-05-05 14:23:47,666 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 13.107.137.11, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:23:47,666 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 13.107.137.11, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:23:47,667 Anomaly: SrcIP=172.16.200.92 DstIP=13.107.137.11 Length=1514 Score=-0.1257
+2025-05-05 14:23:48,452 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 13.107.137.11, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:23:48,452 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 13.107.137.11, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1257
+2025-05-05 14:23:48,454 Anomaly: SrcIP=172.16.200.92 DstIP=13.107.137.11 Length=1514 Score=-0.1257
+2025-05-05 14:30:51,731 - WARNING - Anomaly detected - SrcIP: 172.16.202.63, DstIP: 172.16.207.255, Packet Length: 86, Protocol: 17, Anomaly Score: -0.1001
+2025-05-05 14:30:51,731 Anomaly detected - SrcIP: 172.16.202.63, DstIP: 172.16.207.255, Packet Length: 86, Protocol: 17, Anomaly Score: -0.1001
+2025-05-05 14:30:51,735 Anomaly: SrcIP=172.16.202.63 DstIP=172.16.207.255 Length=86 Score=-0.1001
+2025-05-05 14:31:13,093 - WARNING - Anomaly detected - SrcIP: 172.16.200.209, DstIP: 239.255.255.250, Packet Length: 1120, Protocol: 17, Anomaly Score: -0.1095
+2025-05-05 14:31:13,093 Anomaly detected - SrcIP: 172.16.200.209, DstIP: 239.255.255.250, Packet Length: 1120, Protocol: 17, Anomaly Score: -0.1095
+2025-05-05 14:31:13,095 Anomaly: SrcIP=172.16.200.209 DstIP=239.255.255.250 Length=1120 Score=-0.1095
+2025-05-05 14:31:18,235 - WARNING - Anomaly detected - SrcIP: 172.16.202.63, DstIP: 172.16.207.255, Packet Length: 86, Protocol: 17, Anomaly Score: -0.1001
+2025-05-05 14:31:18,235 Anomaly detected - SrcIP: 172.16.202.63, DstIP: 172.16.207.255, Packet Length: 86, Protocol: 17, Anomaly Score: -0.1001
+2025-05-05 14:31:18,238 Anomaly: SrcIP=172.16.202.63 DstIP=172.16.207.255 Length=86 Score=-0.1001
+2025-05-05 14:31:23,761 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 52.230.60.54, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:31:23,761 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 52.230.60.54, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:31:23,762 Anomaly: SrcIP=172.16.200.92 DstIP=52.230.60.54 Length=1514 Score=-0.1228
+2025-05-05 14:31:45,069 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 52.230.60.54, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:31:45,069 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 52.230.60.54, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:31:45,070 Anomaly: SrcIP=172.16.200.92 DstIP=52.230.60.54 Length=1514 Score=-0.1228
+2025-05-05 14:32:06,359 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 13.107.137.11, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:32:06,359 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 13.107.137.11, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:32:06,360 Anomaly: SrcIP=172.16.200.92 DstIP=13.107.137.11 Length=1514 Score=-0.1228
+2025-05-05 14:32:27,421 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 13.107.137.11, Packet Length: 1277, Protocol: 6, Anomaly Score: -0.1144
+2025-05-05 14:32:27,421 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 13.107.137.11, Packet Length: 1277, Protocol: 6, Anomaly Score: -0.1144
+2025-05-05 14:32:27,423 Anomaly: SrcIP=172.16.200.92 DstIP=13.107.137.11 Length=1277 Score=-0.1144
+2025-05-05 14:32:48,482 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 13.107.137.11, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:32:48,482 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 13.107.137.11, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:32:48,484 Anomaly: SrcIP=172.16.200.92 DstIP=13.107.137.11 Length=1514 Score=-0.1228
+2025-05-05 14:33:10,813 - WARNING - Anomaly detected - SrcIP: 172.16.200.160, DstIP: 224.0.0.251, Packet Length: 1306, Protocol: 17, Anomaly Score: -0.1331
+2025-05-05 14:33:10,813 Anomaly detected - SrcIP: 172.16.200.160, DstIP: 224.0.0.251, Packet Length: 1306, Protocol: 17, Anomaly Score: -0.1331
+2025-05-05 14:33:10,814 Anomaly: SrcIP=172.16.200.160 DstIP=224.0.0.251 Length=1306 Score=-0.1331
+2025-05-05 14:33:31,907 - WARNING - Anomaly detected - SrcIP: 172.16.200.160, DstIP: 224.0.0.251, Packet Length: 992, Protocol: 17, Anomaly Score: -0.1176
+2025-05-05 14:33:31,907 Anomaly detected - SrcIP: 172.16.200.160, DstIP: 224.0.0.251, Packet Length: 992, Protocol: 17, Anomaly Score: -0.1176
+2025-05-05 14:33:31,910 Anomaly: SrcIP=172.16.200.160 DstIP=224.0.0.251 Length=992 Score=-0.1176
+2025-05-05 14:33:53,282 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 52.187.79.109, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:33:53,282 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 52.187.79.109, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:33:53,283 Anomaly: SrcIP=172.16.200.92 DstIP=52.187.79.109 Length=1514 Score=-0.1228
+2025-05-05 14:34:14,771 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 172.16.68.30, Packet Length: 215, Protocol: 1, Anomaly Score: -0.1018
+2025-05-05 14:34:14,771 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 172.16.68.30, Packet Length: 215, Protocol: 1, Anomaly Score: -0.1018
+2025-05-05 14:34:14,773 Anomaly: SrcIP=172.16.200.92 DstIP=172.16.68.30 Length=215 Score=-0.1018
+2025-05-05 14:34:35,855 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 172.16.68.10, Packet Length: 215, Protocol: 1, Anomaly Score: -0.1018
+2025-05-05 14:34:35,855 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 172.16.68.10, Packet Length: 215, Protocol: 1, Anomaly Score: -0.1018
+2025-05-05 14:34:35,858 Anomaly: SrcIP=172.16.200.92 DstIP=172.16.68.10 Length=215 Score=-0.1018
+2025-05-05 14:34:56,968 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 52.187.79.109, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:34:56,968 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 52.187.79.109, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:34:56,972 Anomaly: SrcIP=172.16.200.92 DstIP=52.187.79.109 Length=1514 Score=-0.1228
+2025-05-05 14:35:18,039 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 52.187.79.109, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:35:18,039 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 52.187.79.109, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:35:18,041 Anomaly: SrcIP=172.16.200.92 DstIP=52.187.79.109 Length=1514 Score=-0.1228
+2025-05-05 14:35:39,267 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 52.187.79.109, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:35:39,267 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 52.187.79.109, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:35:39,272 Anomaly: SrcIP=172.16.200.92 DstIP=52.187.79.109 Length=1514 Score=-0.1228
+2025-05-05 14:36:00,902 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 142.250.194.197, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:36:00,902 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 142.250.194.197, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:36:00,906 Anomaly: SrcIP=172.16.200.92 DstIP=142.250.194.197 Length=1514 Score=-0.1228
+2025-05-05 14:36:22,441 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 142.250.194.197, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:36:22,441 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 142.250.194.197, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:36:22,443 Anomaly: SrcIP=172.16.200.92 DstIP=142.250.194.197 Length=1514 Score=-0.1228
+2025-05-05 14:36:43,523 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 142.250.194.197, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:36:43,523 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 142.250.194.197, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:36:43,526 Anomaly: SrcIP=172.16.200.92 DstIP=142.250.194.197 Length=1514 Score=-0.1228
+2025-05-05 14:37:04,594 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 142.250.194.197, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:37:04,594 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 142.250.194.197, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:37:04,597 Anomaly: SrcIP=172.16.200.92 DstIP=142.250.194.197 Length=1514 Score=-0.1228
+2025-05-05 14:37:25,685 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 142.250.194.197, Packet Length: 1206, Protocol: 6, Anomaly Score: -0.1079
+2025-05-05 14:37:25,685 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 142.250.194.197, Packet Length: 1206, Protocol: 6, Anomaly Score: -0.1079
+2025-05-05 14:37:25,692 Anomaly: SrcIP=172.16.200.92 DstIP=142.250.194.197 Length=1206 Score=-0.1079
+2025-05-05 14:37:47,756 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 142.250.194.197, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:37:47,756 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 142.250.194.197, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:37:47,774 Anomaly: SrcIP=172.16.200.92 DstIP=142.250.194.197 Length=1514 Score=-0.1228
+2025-05-05 14:38:08,889 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 142.250.194.197, Packet Length: 1280, Protocol: 6, Anomaly Score: -0.1144
+2025-05-05 14:38:08,889 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 142.250.194.197, Packet Length: 1280, Protocol: 6, Anomaly Score: -0.1144
+2025-05-05 14:38:08,893 Anomaly: SrcIP=172.16.200.92 DstIP=142.250.194.197 Length=1280 Score=-0.1144
+2025-05-05 14:38:30,054 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 142.250.194.197, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:38:30,054 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 142.250.194.197, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:38:30,057 Anomaly: SrcIP=172.16.200.92 DstIP=142.250.194.197 Length=1514 Score=-0.1228
+2025-05-05 14:38:51,258 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 142.250.194.197, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:38:51,258 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 142.250.194.197, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:38:51,263 Anomaly: SrcIP=172.16.200.92 DstIP=142.250.194.197 Length=1514 Score=-0.1228
+2025-05-05 14:39:12,422 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 142.250.194.197, Packet Length: 1280, Protocol: 6, Anomaly Score: -0.1144
+2025-05-05 14:39:12,422 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 142.250.194.197, Packet Length: 1280, Protocol: 6, Anomaly Score: -0.1144
+2025-05-05 14:39:12,426 Anomaly: SrcIP=172.16.200.92 DstIP=142.250.194.197 Length=1280 Score=-0.1144
+2025-05-05 14:39:33,486 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 142.250.194.197, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:39:33,486 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 142.250.194.197, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:39:33,489 Anomaly: SrcIP=172.16.200.92 DstIP=142.250.194.197 Length=1514 Score=-0.1228
+2025-05-05 14:39:54,936 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 142.250.182.163, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:39:54,936 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 142.250.182.163, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:39:54,938 Anomaly: SrcIP=172.16.200.92 DstIP=142.250.182.163 Length=1514 Score=-0.1228
+2025-05-05 14:40:05,234 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 142.250.182.163, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:40:05,234 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 142.250.182.163, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:40:05,236 Anomaly: SrcIP=172.16.200.92 DstIP=142.250.182.163 Length=1514 Score=-0.1228
+2025-05-05 14:40:15,562 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 142.250.182.163, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:40:15,562 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 142.250.182.163, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:40:15,564 Anomaly: SrcIP=172.16.200.92 DstIP=142.250.182.163 Length=1514 Score=-0.1228
+2025-05-05 14:40:25,861 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 142.250.182.163, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:40:25,861 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 142.250.182.163, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:40:25,863 Anomaly: SrcIP=172.16.200.92 DstIP=142.250.182.163 Length=1514 Score=-0.1228
+2025-05-05 14:40:36,772 - WARNING - Anomaly detected - SrcIP: 172.16.202.14, DstIP: 172.16.207.255, Packet Length: 86, Protocol: 17, Anomaly Score: -0.1001
+2025-05-05 14:40:36,772 Anomaly detected - SrcIP: 172.16.202.14, DstIP: 172.16.207.255, Packet Length: 86, Protocol: 17, Anomaly Score: -0.1001
+2025-05-05 14:40:36,778 Anomaly: SrcIP=172.16.202.14 DstIP=172.16.207.255 Length=86 Score=-0.1001
+2025-05-05 14:40:47,855 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 172.16.68.30, Packet Length: 303, Protocol: 1, Anomaly Score: -0.1086
+2025-05-05 14:40:47,855 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 172.16.68.30, Packet Length: 303, Protocol: 1, Anomaly Score: -0.1086
+2025-05-05 14:40:47,857 Anomaly: SrcIP=172.16.200.92 DstIP=172.16.68.30 Length=303 Score=-0.1086
+2025-05-05 14:40:58,193 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 13.67.9.5, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:40:58,193 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 13.67.9.5, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:40:58,195 Anomaly: SrcIP=172.16.200.92 DstIP=13.67.9.5 Length=1514 Score=-0.1228
+2025-05-05 14:41:08,539 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 172.16.68.10, Packet Length: 303, Protocol: 1, Anomaly Score: -0.1086
+2025-05-05 14:41:08,539 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 172.16.68.10, Packet Length: 303, Protocol: 1, Anomaly Score: -0.1086
+2025-05-05 14:41:08,541 Anomaly: SrcIP=172.16.200.92 DstIP=172.16.68.10 Length=303 Score=-0.1086
+2025-05-05 14:41:19,546 - WARNING - Anomaly detected - SrcIP: 172.16.200.160, DstIP: 224.0.0.251, Packet Length: 1151, Protocol: 17, Anomaly Score: -0.1243
+2025-05-05 14:41:19,546 Anomaly detected - SrcIP: 172.16.200.160, DstIP: 224.0.0.251, Packet Length: 1151, Protocol: 17, Anomaly Score: -0.1243
+2025-05-05 14:41:19,549 Anomaly: SrcIP=172.16.200.160 DstIP=224.0.0.251 Length=1151 Score=-0.1243
+2025-05-05 14:41:30,150 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 13.107.137.11, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:41:30,150 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 13.107.137.11, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:41:30,152 Anomaly: SrcIP=172.16.200.92 DstIP=13.107.137.11 Length=1514 Score=-0.1228
+2025-05-05 14:41:40,444 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 13.107.137.11, Packet Length: 1319, Protocol: 6, Anomaly Score: -0.1182
+2025-05-05 14:41:40,444 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 13.107.137.11, Packet Length: 1319, Protocol: 6, Anomaly Score: -0.1182
+2025-05-05 14:41:40,447 Anomaly: SrcIP=172.16.200.92 DstIP=13.107.137.11 Length=1319 Score=-0.1182
+2025-05-05 14:41:50,946 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 13.107.137.11, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:41:50,946 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 13.107.137.11, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:41:50,947 Anomaly: SrcIP=172.16.200.92 DstIP=13.107.137.11 Length=1514 Score=-0.1228
+2025-05-05 14:42:01,222 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 13.107.137.11, Packet Length: 1253, Protocol: 6, Anomaly Score: -0.1134
+2025-05-05 14:42:01,222 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 13.107.137.11, Packet Length: 1253, Protocol: 6, Anomaly Score: -0.1134
+2025-05-05 14:42:01,224 Anomaly: SrcIP=172.16.200.92 DstIP=13.107.137.11 Length=1253 Score=-0.1134
+2025-05-05 14:42:11,521 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 13.107.137.11, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:42:11,521 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 13.107.137.11, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:42:11,525 Anomaly: SrcIP=172.16.200.92 DstIP=13.107.137.11 Length=1514 Score=-0.1228
+2025-05-05 14:42:21,820 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 13.107.137.11, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:42:21,820 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 13.107.137.11, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:42:21,822 Anomaly: SrcIP=172.16.200.92 DstIP=13.107.137.11 Length=1514 Score=-0.1228
+2025-05-05 14:42:32,097 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 13.107.137.11, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:42:32,097 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 13.107.137.11, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:42:32,100 Anomaly: SrcIP=172.16.200.92 DstIP=13.107.137.11 Length=1514 Score=-0.1228
+2025-05-05 14:42:42,369 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 13.107.137.11, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:42:42,369 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 13.107.137.11, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:42:42,371 Anomaly: SrcIP=172.16.200.92 DstIP=13.107.137.11 Length=1514 Score=-0.1228
+2025-05-05 14:42:52,652 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 13.107.137.11, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:42:52,652 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 13.107.137.11, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:42:52,655 Anomaly: SrcIP=172.16.200.92 DstIP=13.107.137.11 Length=1514 Score=-0.1228
+2025-05-05 14:43:02,916 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 13.107.137.11, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:43:02,916 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 13.107.137.11, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:43:02,919 Anomaly: SrcIP=172.16.200.92 DstIP=13.107.137.11 Length=1514 Score=-0.1228
+2025-05-05 14:43:13,186 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 13.107.137.11, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:43:13,186 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 13.107.137.11, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:43:13,188 Anomaly: SrcIP=172.16.200.92 DstIP=13.107.137.11 Length=1514 Score=-0.1228
+2025-05-05 14:43:23,460 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 13.107.137.11, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:43:23,460 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 13.107.137.11, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:43:23,462 Anomaly: SrcIP=172.16.200.92 DstIP=13.107.137.11 Length=1514 Score=-0.1228
+2025-05-05 14:43:33,741 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 13.107.137.11, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:43:33,741 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 13.107.137.11, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:43:33,746 Anomaly: SrcIP=172.16.200.92 DstIP=13.107.137.11 Length=1514 Score=-0.1228
+2025-05-05 14:43:44,021 - WARNING - Anomaly detected - SrcIP: 172.16.200.92, DstIP: 13.107.137.11, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:43:44,021 Anomaly detected - SrcIP: 172.16.200.92, DstIP: 13.107.137.11, Packet Length: 1514, Protocol: 6, Anomaly Score: -0.1228
+2025-05-05 14:43:44,028 Anomaly: SrcIP=172.16.200.92 DstIP=13.107.137.11 Length=1514 Score=-0.1228

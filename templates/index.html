@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Real-Time Network Anomaly Detection</title>
+    <style>
+      body {
+        min-height: 100vh;
+        margin: 0;
+        padding: 0;
+        /* Sweet gradient background */
+        background: linear-gradient(135deg, #f8ffae 0%, #43cea2 100%);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+      }
+      .container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        min-height: 80vh;
+        width: 100vw;
+      }
+      h2 {
+        color: #22223b;
+        font-family: "Segoe UI", "Roboto", Arial, sans-serif;
+        font-size: 2.5rem;
+        margin-bottom: 2rem;
+        text-align: center;
+        letter-spacing: 1px;
+        text-shadow: 0 2px 8px #ffffff90;
+      }
+      .chart-card {
+        background: rgba(255, 255, 255, 0.93);
+        border-radius: 22px;
+        box-shadow: 0 8px 32px 0 rgba(60, 60, 60, 0.18);
+        padding: 30px 30px 20px 30px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: 0 auto;
+      }
+      #anomalyChart {
+        display: block;
+        margin: 0 auto;
+        background: #f7f6f2;
+        border-radius: 14px;
+        box-shadow: 0 2px 12px #43cea280;
+        max-width: 700px;
+        width: 80vw;
+        height: 400px;
+      }
+      @media (max-width: 600px) {
+        h2 {
+          font-size: 1.3rem;
+        }
+        .chart-card {
+          padding: 10px;
+        }
+        #anomalyChart {
+          width: 95vw;
+          height: 250px;
+        }
+      }
+    </style>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/socket.io/4.6.1/socket.io.min.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <h2>Real-Time Network Anomaly Detection</h2>
+      <div class="chart-card">
+        <canvas id="anomalyChart" width="700" height="400"></canvas>
+      </div>
+    </div>
+    <script>
+      const ctx = document.getElementById("anomalyChart").getContext("2d");
+      const data = {
+        labels: [],
+        datasets: [
+          {
+            label: "Anomaly Score",
+            data: [],
+            borderColor: "#ff4e50",
+            backgroundColor: "rgba(255,78,80,0.15)",
+            fill: true,
+            tension: 0.3,
+            pointRadius: 4,
+            pointBackgroundColor: "#43cea2",
+            pointBorderColor: "#ff4e50",
+            pointHoverRadius: 7,
+          },
+        ],
+      };
+      const config = {
+        type: "line",
+        data: data,
+        options: {
+          responsive: true,
+          plugins: {
+            legend: {
+              labels: {
+                color: "#22223b",
+                font: { size: 16 },
+              },
+            },
+            title: { display: false },
+          },
+          scales: {
+            x: {
+              ticks: { color: "#22223b" },
+              grid: { color: "#e0e0e0" },
+            },
+            y: {
+              min: -0.2,
+              max: 0,
+              ticks: { color: "#22223b" },
+              grid: { color: "#e0e0e0" },
+            },
+          },
+        },
+      };
+      const anomalyChart = new Chart(ctx, config);
+
+      const socket = io();
+      socket.on("connect", () => {
+        console.log("Connected to server");
+      });
+      socket.on("new_anomaly", function (msg) {
+        console.log("Received anomaly:", msg);
+        const now = new Date().toLocaleTimeString();
+        if (data.labels.length > 20) {
+          data.labels.shift();
+          data.datasets[0].data.shift();
+        }
+        data.labels.push(now);
+        data.datasets[0].data.push(msg.anomaly_score);
+        anomalyChart.update();
+      });
+      socket.on("disconnect", () => {
+        console.log("Disconnected from server");
+      });
+    </script>
+  </body>
+</html>

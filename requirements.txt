@@ -1,0 +1,8 @@
+scapy
+scikit-learn
+pandas
+flask
+flask-socketio
+eventlet
+matplotlib
+numpy
